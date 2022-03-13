@@ -1,0 +1,63 @@
+.danger {
+    background-color: #ffdddd;
+    border-left: 6px solid #f44336;
+}
+
+.label {
+    color: white;
+    padding: 8px;
+}
+
+.success {
+    background-color: #04AA6D;
+}
+
+
+/* Green */
+
+.info {
+    background-color: #2196F3;
+}
+
+
+/* Blue */
+
+.warning {
+    background-color: #ff9800;
+}
+
+
+/* Orange */
+
+.danger {
+    background-color: #f44336;
+}
+
+
+/* Red */
+
+.other {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+
+/* Gray */
+
+#newtask {
+    position: relative;
+    padding: 30px 20px;
+}
+
+#newtask input {
+    width: 75%;
+    height: 93px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+    border: 2px solid #d1d3d4;
+    padding: 12px;
+    color: #111111;
+    font-weight: 700;
+    position: relative;
+    border-radius: 55px;
+}
